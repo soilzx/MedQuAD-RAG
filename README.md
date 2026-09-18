@@ -21,3 +21,4 @@ The project uses the MedQuAD dataset, loaded through Hugging Face.
 -  data_analysis.ipynb: Loads and examines the MedQuAD dataset.
 -  requirements.txt: Lists the required Python packages.
 -  README.md: Provides project and setup information.
+-  proposal: Where we record each milestone.
